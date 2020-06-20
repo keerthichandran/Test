@@ -2,6 +2,15 @@
    "category_common":[
       "Files uploaded by spell4wiki"
    ],
+   "update_content":{
+      "type":"once",
+      "version":""
+   },
+   "fetch_config":{
+      "by":"timestamp",
+      "dir":"desc",
+      "limit":150
+   },
    "language_wise_data":[
       {
          "code":"aa",
